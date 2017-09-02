@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 import math
 import sys
-
 ###################################Plot functions#######################################
 def plotDegree(x_axis, y_axis, titl, clr, mar, marker_size):
 	plt.scatter(x_axis, y_axis[:,[0]], color=clr, marker=mar, s=marker_size)
