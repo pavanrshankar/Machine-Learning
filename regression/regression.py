@@ -271,7 +271,7 @@ def performRegression(train_ratio, val_ratio, max_degree, data, nd_regression, l
 					
 					valError, pred_y = getError(coeff_l, val_x, val_y)
 
-					#plotCurve(train_data, pred_y_l)
+					plotCurve(train_data, pred_y_l)
 					#plotRegularizedCurves(train_data, pred_y, pred_y_l)
 
 					avg_train_error[deg-1] += (trainError / train_ratio)
