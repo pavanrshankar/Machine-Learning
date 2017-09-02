@@ -22,3 +22,4 @@
 
 * Numpy
 
+#### This was given as an assignment for CS6690/Pattern Recogniton course
