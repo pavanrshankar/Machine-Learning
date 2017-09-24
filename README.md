@@ -1,3 +1,4 @@
-# README
+# Topics 
 
-
+* Regression
+* Bayesian Classifier
