@@ -17,6 +17,6 @@
   * Detection Error Tradeoff
 
 ## Relevant Papers
- *  A. Martin, A., G. Doddington, T. Kamm, M. Ordowski, and M. Przybocki. "The DET Curve in Assessment of Detection Task Performance", Proc. Eurospeech '97, Rhodes, Greece, September 1997, Vol. 4, pp. 1895-1898
+ *  A. Martin, A., G. Doddington, T. Kamm, M. Ordowski, and M. Przybocki. ["The DET Curve in Assessment of Detection Task Performance"](http://www.dtic.mil/docs/citations/ADA530509), Proc. Eurospeech '97, Rhodes, Greece, September 1997, Vol. 4, pp. 1895-1898
   
   
