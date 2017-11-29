@@ -18,7 +18,7 @@
 
 ## Parzen Window
   * Choosing optimal window size
-  * Logsumexp(Logadd) usage to avoid overflow
+  * Logsumexp(Logadd) usage to avoid underflow
 
 ## Perceptron
   * One vs One
